@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Desktop/code"
+		},
+		{
+			"name": "led_blank",
+			"path": "../led_blank"
+		},
+		{
+			"name": "serial_led_control",
+			"path": "../serial_led_control"
+		},
+		{
+			"name": "stepper_motor",
+			"path": "../stepper_motor"
+		},
+		{
+			"name": "oled_hello",
+			"path": "."
+		}
+	]
+}
